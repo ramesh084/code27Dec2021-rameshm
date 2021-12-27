@@ -28,5 +28,3 @@ bmicalc/
 ## Running tests
 Run tests simply using the `pytest` command just above the 'bmicalctest'
 Also `pytest` can be run from testpackage.py
-
-
