@@ -1,0 +1,10 @@
+{
+"inFileDir": "input/",
+ "outFileDir": "output/",
+ "inFileName": "bmi.json",
+ "outFileName":"bmiout",
+ "colNames": "Gender,HeightCm,WeightKg,BMI,Category,HealthRisks",
+ "outputFileFormat": "CSV",
+ "countParam": "Overweight"
+}
+ 
